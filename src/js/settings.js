@@ -136,7 +136,6 @@ export const settings = {
     title: '.title',
     text: '.text',
     author: '.author',
-    
   },
 };
 
